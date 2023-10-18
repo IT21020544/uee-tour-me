@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class MyImages{
   static const String  logo = 'assets/images/logo.png';
   static const String  slogan = 'assets/images/slogan.png';
+  static const iconLogo = 'assets/images/logo_img.png';
 }
 
 class MyColors{
